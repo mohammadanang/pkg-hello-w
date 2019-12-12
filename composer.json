@@ -1,0 +1,17 @@
+{
+    "name": "anangm182/pkg-hell-lara",
+    "description": "A simple package hello world of PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohammadanang",
+            "email": "m.anangnur@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Anangm182\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
